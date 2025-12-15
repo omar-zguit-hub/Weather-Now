@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Aref;
+    src: url("/public/fonts/Aref/ArefRuqaa-Bold.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: Aref;
+    src: url("/public/fonts/Aref/ArefRuqaa-Regular.ttf");
+    font-weight: 400;
+} 
+body{
+    background-color: rgb(15, 40, 90);
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+

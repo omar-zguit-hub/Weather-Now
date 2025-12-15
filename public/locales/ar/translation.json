@@ -1,0 +1,70 @@
+{
+    "Tinghir" : "تنغير",
+    "Max" : "الكبرى",
+    "Min" : "الصغرى", 
+
+    
+    "clear sky": "سماء صافية",
+
+    "few clouds": "سحب قليلة",
+    "scattered clouds": "سحب متفرقة",
+    "broken clouds": "سحب كثيفة",
+    "overcast clouds": "سماء غائمة كليًا",
+
+    "mist": "ضباب خفيف",
+    "smoke": "دخان",
+    "haze": "غشاوة",
+    "dust": "غبار",
+    "fog": "ضباب",
+    "sand": "رمال",
+    "ash": "رماد",
+    "squall": "رياح عاصفة",
+    "tornado": "إعصار",
+
+    "light drizzle": "رذاذ خفيف",
+    "drizzle": "رذاذ",
+    "heavy drizzle": "رذاذ كثيف",
+    "light drizzle rain": "رذاذ مع مطر خفيف",
+    "drizzle rain": "رذاذ ممطر",
+    "heavy drizzle rain": "رذاذ ممطر كثيف",
+    "shower rain drizzle": "زخات مطر مع رذاذ",
+    "heavy shower rain drizzle": "زخات مطر غزيرة مع رذاذ",
+    "shower drizzle": "زخات رذاذ",
+
+    "light rain": "مطر خفيف",
+    "moderate rain": "مطر معتدل",
+    "heavy rain": "مطر غزير",
+    "very heavy rain": "مطر غزير جدًا",
+    "extreme rain": "مطر شديد",
+    "freezing rain": "مطر متجمد",
+    "light shower rain": "زخات مطر خفيفة",
+    "shower rain": "زخات مطر",
+    "heavy shower rain": "زخات مطر غزيرة",
+    "ragged shower rain": "زخات مطر متقطعة",
+
+    "thunderstorm light rain": "عاصفة رعدية مع مطر خفيف",
+    "thunderstorm rain": "عاصفة رعدية مع مطر",
+    "thunderstorm heavy rain": "عاصفة رعدية مع مطر غزير",
+    "light thunderstorm": "عاصفة رعدية خفيفة",
+    "thunderstorm": "عاصفة رعدية",
+    "heavy thunderstorm": "عاصفة رعدية شديدة",
+    "ragged thunderstorm": "عاصفة رعدية متقطعة",
+    "thunderstorm light drizzle": "عاصفة رعدية مع رذاذ خفيف",
+    "thunderstorm drizzle": "عاصفة رعدية مع رذاذ",
+    "thunderstorm heavy drizzle": "عاصفة رعدية مع رذاذ كثيف",
+
+    "light snow": "ثلوج خفيفة",
+    "snow": "ثلوج",
+    "heavy snow": "ثلوج كثيفة",
+    "sleet": "مطر ثلجي",
+    "light shower sleet": "زخات مطر ثلجي خفيفة",
+    "shower sleet": "زخات مطر ثلجي",
+    "light rain snow": "مطر وثلج خفيف",
+    "rain snow": "مطر وثلج",
+    "light shower_snow": "زخات ثلوج خفيفة",
+    "shower snow": "زخات ثلوج",
+    "heavy shower snow": "زخات ثلوج كثيفة"
+}
+
+
+
