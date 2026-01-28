@@ -1,7 +1,37 @@
-{
-    "Tinghir" : "تنغير",
+{ 
+  "Tinghir": "تنغير",
+  "Rabat": "الرباط",
+  "Casablanca": "الدار البيضاء",
+  "Marrakech": "مراكش",
+  "Fes": "فاس",
+  "Tangier": "طنجة",
+  "Agadir": "أكادير",
+  "Ouarzazate": "ورزازات",
+  "Chefchaouen": "شفشاون",
+  "Essaouira": "الصويرة",
+ 
+  "Salé": "سلا",
+  "Kénitra": "القنيطرة",
+  "Mohammedia": "المحمدية",
+  "Settat": "سطات",
+  "Safi": "آسفي",
+  "Meknes": "مكناس",
+  "Taza": "تازة",
+  "Tetouan": "تطوان",
+  "Al Hoceima": "الحسيمة",
+  "Taroudant": "تارودانت",
+  "Tiznit": "تيزنيت",
+  "Errachidia": "الرشيدية",
+  "Oujda": "وجدة",
+  "Nador": "الناظور",
+  "Berkane": "بركان",
+  "Laayoune": "العيون",
+  "Dakhla": "الداخلة",
+
     "Max" : "الكبرى",
     "Min" : "الصغرى", 
+
+    "choise a city":"إختر المدينة",
 
     
     "clear sky": "سماء صافية",
